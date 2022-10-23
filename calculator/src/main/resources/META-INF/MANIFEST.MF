@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ca.thornhillss.Main
+Class-Path: graal-sdk-22.0.0.jar js-scriptengine-22.0.0.jar js-22.0.0.ja
+ r truffle-api-22.0.0.jar regex-22.0.0.jar
+
